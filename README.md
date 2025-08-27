@@ -73,6 +73,3 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmahato&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
 </p>
-
-
-
