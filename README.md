@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights-1
 
 
 <p align="center">
@@ -49,6 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmahato&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="32%" />
 </p>
 
+---
+
+### 📊 GitHub Insights-2
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmahato&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
