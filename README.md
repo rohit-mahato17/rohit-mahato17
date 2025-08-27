@@ -40,11 +40,21 @@
 
 ### 📊 GitHub Insights
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmahato&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="50%" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitmahato&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmahato&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="32%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmahato&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmahato&theme=react-dark&hide_border=true&area=true" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmahato&theme=react-dark&hide_border=true&area=true" width="65%" />
 </p>
 
 ---
@@ -60,13 +70,3 @@
 
 > “Write code that humans can read and computers can execute.”
 
----
-### 📊 GitHub 
-
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmahato&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmahato&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
-</p>
