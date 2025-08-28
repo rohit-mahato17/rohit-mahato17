@@ -61,6 +61,14 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitmahato&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohitmahato&theme=react-dark&hide_border=true&area=true" width="65%" />
+</p>
+
+---
 
 ### 📬 Let’s Connect!
 
