@@ -71,6 +71,7 @@
 > “Write code that humans can read and computers can execute.”
 
 ---
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mahato-ROHIT&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahato-ROHIT&theme=radical&layout=compact"/>
+</p>
