@@ -89,17 +89,17 @@
 
 <!-- Badges Row -->
 <p align="center">
-  <a href="https://github.com/your-username/your-repo/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge&logo=github&color=ff6b6b">
+  <a href="https://github.com/mahato-ROHIT/your-repo/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/mahato-ROHIT/your-repo?style=for-the-badge&logo=github&color=ff6b6b">
   </a>
-  <a href="https://github.com/your-username/your-repo/forks">
-    <img alt="Forks" src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge&logo=github&color=f7b733">
+  <a href="https://github.com/mahato-ROHIT/your-repo/forks">
+    <img alt="Forks" src="https://img.shields.io/github/forks/mahato-ROHIT/your-repo?style=for-the-badge&logo=github&color=f7b733">
   </a>
-  <a href="https://github.com/your-username/your-repo/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/your-username/your-repo?style=for-the-badge&logo=github&color=45b7d1">
+  <a href="https://github.com/mahato-ROHIT/your-repo/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/mahato-ROHIT/your-repo?style=for-the-badge&logo=github&color=45b7d1">
   </a>
-  <a href="https://github.com/your-username/your-repo/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge&color=7b42f6">
+  <a href="https://github.com/mahato-ROHIT/your-repo/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/mahato-ROHIT/your-repo?style=for-the-badge&color=7b42f6">
   </a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&color=22c55e">
 </p>
