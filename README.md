@@ -71,3 +71,56 @@
 > “Write code that humans can read and computers can execute.”
 ---
 ??
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Streak</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.6);
+    }
+    .card h1 {
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+      color: #ffcc70;
+    }
+    .card img {
+      width: 80%;
+      border-radius: 12px;
+      transition: transform 0.3s ease;
+    }
+    .card img:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🔥 My GitHub Streak</h1>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahato-ROHIT&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  </div>
+</body>
+</html>
+
+
