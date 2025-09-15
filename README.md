@@ -42,19 +42,19 @@
 
 <p align="center">
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mahato-ROHIT&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-mahato17&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahato-ROHIT&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-mahato17&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="32%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahato-ROHIT&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-mahato17&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahato-ROHIT&theme=react-dark&hide_border=true&area=true" width="65%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-mahato17&theme=react-dark&hide_border=true&area=true" width="65%" />
 </p>
 
 ---
@@ -68,4 +68,4 @@
 
 ### 💬 Life Motto
 
-> Write code that humans can read and computers can execute.
+ Write code that humans can read and computers can execute.
