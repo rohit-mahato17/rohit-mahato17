@@ -31,7 +31,7 @@
 
 **Database & Hosting:**  
 🍃 MongoDB | 🐬 MySQL | 🔥 Firebase | ☁️ Google Cloud  
-🌍 GitHub Pages | 🛰️ Vercel | 🌐 Netlify | 🚀 Heroku  
+🌍 GitHub Pages | 🛰️ Vercel | 🌐 Netlify   
 
 **Tools:**  
 🧠 VS Code | 🧪 Postman | 📋 Notion | 🔧 Git + GitHub  
