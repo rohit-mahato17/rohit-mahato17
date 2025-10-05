@@ -24,10 +24,7 @@
 🟨 C/C++ | 🟦 Java | 🟥 JavaScript | 🌐 HTML/CSS  
 
 **Frontend:**  
-⚛️ React | 🔁 Redux | 🎯 Next.js | 💨 Tailwind CSS  
-
-**Backend:**  
-🌐 Node.js | 🚂 Express.js  
+⚛️ React.js | 🔁 Redux | 🎯 Next.js | 💨 Tailwind CSS  
 
 **Database & Hosting:**  
 🍃 MongoDB | 🐬 MySQL | 🔥 Firebase | ☁️ Google Cloud  
