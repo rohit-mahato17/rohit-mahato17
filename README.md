@@ -68,12 +68,10 @@
 
 ### 💼 Connect With Me
 
-<p align="center">
-  <a href="mailto:rohitmahato88935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rohit-mahato17/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/rohit-mahato17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### 📬 Let’s Connect!
 
+📧 Email: [rohitmahato88935@gmail.com](mailto:rohitmahato88935@gmail.com) 
+🔗 LinkedIn: [linkedin.com/in/rohit-mahato17](https://www.linkedin.com/in/rohit-mahato17/)
 ---
 
 ### 💬 Life Motto
