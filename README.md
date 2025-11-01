@@ -66,9 +66,7 @@
 
 ---
 
-### 💼 Connect With Me
-
-### 📬 Let’s Connect!
+### 📬 Let’s Connect
 
 📧 Email: [rohitmahato88935@gmail.com](mailto:rohitmahato88935@gmail.com) 
 🔗 LinkedIn: [linkedin.com/in/rohit-mahato17](https://www.linkedin.com/in/rohit-mahato17/)
