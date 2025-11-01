@@ -10,11 +10,12 @@
 
 ### 🧠 About Me
 
-🎯 I'm a passionate **Software Engineer** in the making  
-📚 Currently mastering **Web Development**, **DSA**, and modern frameworks  
+🎯 Passionate **Software Engineer in the making**  
+📚 Currently mastering **MERN Stack** and **Data Structures & Algorithms**  
 💬 Skilled in **C++**, **JavaScript**, and **React**  
-🚀 Believe in learning by building  
-😄 Love designing clean UI/UX & tweaking my tools  
+🚀 Believe in *learning by building*  
+🎨 Love crafting elegant UI/UX & optimizing performance  
+🌱 Currently exploring **Next.js 15** and **AI-based Web Apps**
 
 ---
 
@@ -24,7 +25,10 @@
 🟨 C/C++ | 🟦 Java | 🟥 JavaScript | 🌐 HTML/CSS  
 
 **Frontend:**  
-⚛️ React.js | 🔁 Redux | 🎯 Next.js | 💨 Tailwind CSS  
+⚛️ React.js | 🎯 Next.js | 💨 Tailwind CSS | 🔁 Redux  
+
+**Backend:**  
+🧩 Node.js | 🚀 Express.js | 🐍 Python  
 
 **Database & Hosting:**  
 🍃 MongoDB | 🐬 MySQL | 🔥 Firebase | ☁️ Google Cloud  
@@ -35,34 +39,64 @@
 
 ---
 
+### 🏆 My Achievements & Highlights
+
+- 🏅 Solved 500+ DSA problems across platforms (LeetCode, GFG)
+- 💼 Built 10+ real-world projects using MERN Stack
+- 🧠 Open-source contributor & active learner
+- 🎨 Designed multiple clean & responsive UIs
+
+---
+
 ### 📊 GitHub Insights
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-mahato17&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="40%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-mahato17&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-mahato17&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-mahato17&layout=compact&theme=tokyonight&title_color=00f0ff&text_color=ffffff&bg_color=0d1117" width="38%" />
 </p>
 
 ---
+
+### 🔥 GitHub Streak & Activity Graph
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-mahato17&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B,%20Y%5D&starting_year=2024" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-mahato17&theme=react-dark&hide_border=true&area=true" width="65%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-mahato17&theme=react-dark&hide_border=true&area=true" width="70%" />
 </p>
 
 ---
 
-### 📬 Let’s Connect!
+### 🎯 Featured Projects
 
-📧 Email: [rohitmahato88935@gmail.com](mailto:rohitmahato88935@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/rohit-mahato17](https://www.linkedin.com/in/rohit-mahato17/)  
+| 🧩 Project | 🚀 Description | 🔗 Link |
+|------------|----------------|--------|
+| 💊 **Medicine Availability System** | Find nearby available medicines with location-based search | [View Repo](https://github.com/rohit-mahato17/medicine-availability-system) |
+| 📋 **Advanced To-Do App** | Feature-rich To-Do with animations & data persistence | [View Repo](https://github.com/rohit-mahato17/advanced-todo) |
+| ☁️ **Weather & Travel Planner** | Real-time weather + smart travel suggestions | [View Repo](https://github.com/rohit-mahato17/weather-travel-planner) |
+
+---
+
+### 💼 Connect With Me
+
+<p align="center">
+  <a href="mailto:rohitmahato88935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohit-mahato17/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rohit-mahato17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 ### 💬 Life Motto
 
- Write code that humans can read and computers can execute.
+> “Write code that humans can read and computers can execute.”  
+> “Keep learning, keep building, keep growing.” 🌱
+
+---
+
+### 🐍 Fun Touch (Snake Animation)
+
+<p align="center">
+  <img src="https://github.com/rohit-mahato17/rohit-mahato17/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
