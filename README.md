@@ -57,15 +57,6 @@
 
 ---
 
-### 🏆 My Achievements & Highlights
-
-- 🏅 Solved 500+ DSA problems across platforms (LeetCode, GFG)
-- 💼 Built 10+ real-world projects using MERN Stack
-- 🧠 Open-source contributor & active learner
-- 🎨 Designed multiple clean & responsive UIs
-
----
-
 ### 📬 Let’s Connect
 
 📧 Email: [rohitmahato88935@gmail.com](mailto:rohitmahato88935@gmail.com) 
