@@ -1,12 +1,10 @@
-<!-- 👋 Welcome Header -->
+<!-- 👋 Welcome Header --> 
 <h1 align="center">Hey there, I'm Rohit Mahato 👨‍💻</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 Passionate Coder | 🎓 Computer Science Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+in+the+Making;I+love+writing+clean+code;C%2FC%2B%2B+%7C+DSA+%7C+React+%7C+Next.js;Let's+Build+Something+Awesome!+😎" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+in+the+Making;I+love+writing+clean+code;C%2FC%2B%2B+%7C+DSA+%7C+React+%7C+Next.js;Let's+Build+Something+Awesome!+😎" /> </p>
 
 ---
+
 
 ### 🧠 About Me
 
@@ -39,15 +37,6 @@
 
 ---
 
-### 🏆 My Achievements & Highlights
-
-- 🏅 Solved 500+ DSA problems across platforms (LeetCode, GFG)
-- 💼 Built 10+ real-world projects using MERN Stack
-- 🧠 Open-source contributor & active learner
-- 🎨 Designed multiple clean & responsive UIs
-
----
-
 ### 📊 GitHub Insights
 
 <p align="center">
@@ -68,16 +57,6 @@
 
 ---
 
-### 🎯 Featured Projects
-
-| 🧩 Project | 🚀 Description | 🔗 Link |
-|------------|----------------|--------|
-| 💊 **Medicine Availability System** | Find nearby available medicines with location-based search | [View Repo](https://github.com/rohit-mahato17/medicine-availability-system) |
-| 📋 **Advanced To-Do App** | Feature-rich To-Do with animations & data persistence | [View Repo](https://github.com/rohit-mahato17/advanced-todo) |
-| ☁️ **Weather & Travel Planner** | Real-time weather + smart travel suggestions | [View Repo](https://github.com/rohit-mahato17/weather-travel-planner) |
-
----
-
 ### 💼 Connect With Me
 
 <p align="center">
@@ -95,8 +74,3 @@
 
 ---
 
-### 🐍 Fun Touch (Snake Animation)
-
-<p align="center">
-  <img src="https://github.com/rohit-mahato17/rohit-mahato17/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
